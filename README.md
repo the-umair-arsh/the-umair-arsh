@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Umair 👋
 
-<!--
-**the-umair-arsh/the-umair-arsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BS Software Engineering Student
 
-Here are some ideas to get you started:
+I am passionate about designing scalable software systems and building practical solutions that combine clean architecture, creativity, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Areas of Interest
+
+- Software Design & Architecture
+- Flutter Development
+- Web Development
+- Artificial Intelligence
+- Machine Learning
+- Computer Networking
+
+## 💻 Technologies
+
+- Flutter
+- Dart
+- Firebase
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- C++
+- SQL
+
+##  Current Focus
+
+- Mobile Application Development
+- Software Architecture
+- Artificial Intelligence & Machine Learning
+- Building real-world software projects
+
+##  Featured Projects
+
+- Smart Attendance Management System (Flutter + Firebase)
+- NovaNet ISP Network Simulation
+- Smart theater Seat Allocation system (Web + DAA )
+- AI & Machine Learning Projects
+
+##  Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/muhammad-umair-se
+- GitHub: https://github.com/the-umair-arsh
+
+---
+
+> *"Engineering ideas into reality, one project at a time."*
