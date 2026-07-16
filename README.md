@@ -1,10 +1,10 @@
-# Hi there, I'm Muhammad Umair 👋
+# Hi there, I'm Muhammad Umair 
 
 ### BS Software Engineering Student
 
 I am passionate about designing scalable software systems and building practical solutions that combine clean architecture, creativity, and problem-solving.
 
-## 🚀 Areas of Interest
+##  Areas of Interest
 
 - Software Design & Architecture
 - Flutter Development
@@ -13,7 +13,7 @@ I am passionate about designing scalable software systems and building practical
 - Machine Learning
 - Computer Networking
 
-## 💻 Technologies
+##  Technologies
 
 - Flutter
 - Dart
